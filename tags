@@ -1,0 +1,25 @@
+!_TAG_FILE_SORTED	2	/0=unsorted, 1=sorted, 2=foldcase/
+chap	/home/dmitry/work/hfyEbook/ebook.js	/^	chap: chap,$/;"	p	language:JavaScript	class:var.params
+cheerio	/home/dmitry/work/hfyEbook/ebook.js	/^var cheerio = require('cheerio');$/;"	v	language:JavaScript
+cheerio_flags	/home/dmitry/work/hfyEbook/ebook.js	/^	cheerio_flags: { decodeEntities: false }$/;"	p	language:JavaScript	class:var.params
+DEBUG	/home/dmitry/work/hfyEbook/ebook.js	/^var DEBUG = false;$/;"	v	language:JavaScript
+decode_cr	/home/dmitry/work/hfyEbook/ebook.js	/^function decode_cr(cr)$/;"	f	language:JavaScript
+decode_crs	/home/dmitry/work/hfyEbook/ebook.js	/^	decode_crs: decode_crs,$/;"	p	language:JavaScript	class:var.params
+decode_crs	/home/dmitry/work/hfyEbook/ebook.js	/^function decode_crs(s)$/;"	f	language:JavaScript
+ensure_dir	/home/dmitry/work/hfyEbook/ebook.js	/^function ensure_dir(dir)$/;"	f	language:JavaScript
+ERROR_TAG	/home/dmitry/work/hfyEbook/ebook.js	/^var ERROR_TAG = '[\\033[91mError\\033[0m]: ';$/;"	v	language:JavaScript
+FilterManager	/home/dmitry/work/hfyEbook/ebook.js	/^function FilterManager()$/;"	c	language:JavaScript
+Finalize	/home/dmitry/work/hfyEbook/ebook.js	/^function Finalize(params)$/;"	f	language:JavaScript
+fs	/home/dmitry/work/hfyEbook/ebook.js	/^var fs = require('fs');$/;"	v	language:JavaScript
+get	/home/dmitry/work/hfyEbook/ebook.js	/^FilterManager.prototype.get = function(fid)$/;"	m	language:JavaScript	class:FilterManager
+last	/home/dmitry/work/hfyEbook/ebook.js	/^    var last = function(params, cb) { return function() { Finalize(params); if(cb) cb(); }; }(params, cb);$/;"	f	language:JavaScript
+ops	/home/dmitry/work/hfyEbook/ebook.js	/^    var ops = [];$/;"	v	language:JavaScript
+purge	/home/dmitry/work/hfyEbook/ebook.js	/^	purge: purge,$/;"	p	language:JavaScript	class:var.params
+purge	/home/dmitry/work/hfyEbook/ebook.js	/^function purge(set)$/;"	f	language:JavaScript
+Sequence	/home/dmitry/work/hfyEbook/ebook.js	/^function Sequence(ops, params, cb)$/;"	f	language:JavaScript
+spec	/home/dmitry/work/hfyEbook/ebook.js	/^	spec: spec,$/;"	p	language:JavaScript	class:var.params
+spec	/home/dmitry/work/hfyEbook/ebook.js	/^var spec = JSON.parse(fs.readFileSync(__dirname + '\/' + process.argv[2]));$/;"	v	language:JavaScript
+unescape_html	/home/dmitry/work/hfyEbook/ebook.js	/^	unescape_html: unescape_html,$/;"	p	language:JavaScript	class:var.params
+unescape_html	/home/dmitry/work/hfyEbook/ebook.js	/^function unescape_html(html)$/;"	f	language:JavaScript
+UriCache	/home/dmitry/work/hfyEbook/ebook.js	/^function UriCache()$/;"	c	language:JavaScript
+uri_cache	/home/dmitry/work/hfyEbook/ebook.js	/^	uri_cache: uri_cache,$/;"	p	language:JavaScript	class:var.params
