@@ -25,6 +25,13 @@
 			"from-local-markdown",
 			"typography",
 			"finalize"
+		],
+		"from-github": [
+			"from-local-markdown",
+			"custom-break-to-hr",
+			"jverse-the-deathworlders",
+			"typography",
+			"finalize"
 		]
 	},
 	"filename": "The Deathworlders",
@@ -277,6 +284,11 @@
 		"src": "http://www.reddit.com/r/HFY/comments/36m6nh/ocjverse21_dragon_dreams_part_4_of_4/"
 	},
 	{
+		"title": "Interlude - d4 d5, c4 dxc4",
+		"filters": "reddit",
+		"src": "http://www.reddit.com/r/HFY/comments/3kiz70/jversedeathworlders_interlude_215_d4_d5_c4_dxc4_oc/"
+	},
+	{
 		"title": "Warhorse",
 		"filters": "hfy-archive",
 		"src": "http://hfy-archive.org/book/deathworlders/chapter-22-warhorse"
@@ -416,6 +428,71 @@
 		"title": "War On Two Worlds pt.4 - Retaliation",
 		"filters": "hfy-archive",
 		"src": "http://hfy-archive.org/book/deathworlders/chapter-40-war-two-worlds-pt1-instigation/pt4-retaliation"
+	},
+	{
+		"title": "War On Two Worlds pt.5 - Cremation",
+		"filters": "hfy-archive",
+		"src": "http://hfy-archive.org/book/deathworlders/chapter-40-war-two-worlds-pt1-instigation/pt5-cremation"
+	},
+	{
+		"title": "Pyrophytes",
+		"filters": "hfy-archive",
+		"src": "http://hfy-archive.org/book/deathworlders/chapter-41-pyrophytes"
+	},
+	{
+		"title": "Big Questions",
+		"filters": "hfy-archive",
+		"src": "http://hfy-archive.org/book/deathworlders/chapter-42-big-questions"
+	},
+	{
+		"title": "Scars both Old and New",
+		"filters": "hfy-archive",
+		"src": "http://hfy-archive.org/book/deathworlders/chapter-43-scars-both-old-and-new"
+	},
+	{
+		"title": "Samsara",
+		"filters": "hfy-archive",
+		"src": "http://hfy-archive.org/book/deathworlders/chapter-44-samsara"
+	},
+	{
+		"title": "We Need Each Other",
+		"filters": "from-github",
+		"src": "deathworlders/content/books/deathworlders/chapter-45-we-need-each-other.md"
+	},
+	{
+		"title": "Hellfall",
+		"filters": "from-github",
+		"src": "deathworlders/content/books/deathworlders/chapter-46-hellfall.md"
+	},
+	{
+		"title": "Fallout",
+		"filters": "from-github",
+		"src": "deathworlders/content/books/deathworlders/chapter-47-fallout.md"
+	},
+	{
+		"title": "Laid Bare",
+		"filters": "from-github",
+		"src": "deathworlders/content/books/deathworlders/chapter-48-laid-bare.md"
+	},
+	{
+		"title": "Division",
+		"filters": "from-github",
+		"src": "deathworlders/content/books/deathworlders/chapter-49-division.md"
+	},
+	{
+		"title": "Counterattack pt. 1 - Regroup",
+		"filters": "from-github",
+		"src": "deathworlders/content/books/deathworlders/chapter-50-counterattack-pt1-regroup.md"
+	},
+	{
+		"title": "Counterattack pt. 2 - Homefront",
+		"filters": "from-github",
+		"src": "deathworlders/content/books/deathworlders/chapter-50-counterattack-pt2-homefront.md"
+	},
+	{
+		"title": "Counterattack pt. 3 - Trigger",
+		"filters": "from-github",
+		"src": "deathworlders/content/books/deathworlders/chapter_50_counterattack_pt3_trigger.md"
 	}
 	]
 }

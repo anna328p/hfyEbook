@@ -1,0 +1,6 @@
+[submodule "deathworlders"]
+	path = deathworlders
+	url = https://github.com/deathworlders/online
+[submodule "online"]
+	path = online
+	url = https://github.com/deathworlders/online
