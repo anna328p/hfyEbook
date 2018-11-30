@@ -1,0 +1,107 @@
+{
+	"title": "Bought and Sold (Arc 1)",
+	"creator": "MyNameMeansBentNose",
+	"patreon": "https://www.patreon.com/MyNameMeansBentNose",
+	"filters": [
+		"from-reddit-post",
+		"clean-reddit",
+		"custom-break-to-hr",
+		"no-preamble",
+		"typography",
+		"finalize"
+	],
+	"filename": "Bought and Sold Arc 1",
+	"output": ["epub", "latex", "html"],
+	"contents":
+	[
+		{
+			"title": "Nothing Special",
+			"src": "https://www.reddit.com/r/HFY/comments/7of86o/ocbought_and_sold/"
+		},
+		{
+			"title": "His New Life",
+			"src": "https://www.reddit.com/r/HFY/comments/7ontyt/oc_bought_and_sold_chapter_2/"
+		},
+		{
+			"title": "Settling In",
+			"src": "https://www.reddit.com/r/HFY/comments/7p1pq7/oc_bought_and_sold_chapter_3/"
+		},
+		{
+			"title": "Found a Thing",
+			"src": "https://www.reddit.com/r/HFY/comments/7pkusm/oc_bought_and_sold_chapter_4/"
+		},
+		{
+			"title": "Matchmaking",
+			"src": "https://www.reddit.com/r/HFY/comments/7q2lue/oc_bought_and_sold_chapter_5/"
+		},
+		{
+			"title": "Casual Observations",
+			"src": "https://www.reddit.com/r/HFY/comments/7qdgkm/oc_bought_and_sold_chapter_6/"
+		},
+		{
+			"title": "Hover Train Ride",
+			"src": "https://www.reddit.com/r/HFY/comments/7qycal/ocbought_and_sold_chapter_7/"
+		},
+		{
+			"title": "Made for Scratching",
+			"src": "https://www.reddit.com/r/HFY/comments/7rni04/oc_bought_and_sold_chapter_8/"
+		},
+		{
+			"title": "Whats Bugging You?",
+			"src": "https://www.reddit.com/r/HFY/comments/7saflb/oc_bought_and_sold_chapter_9/"
+		},
+		{
+			"title": "Hidden Hands",
+			"src": "https://www.reddit.com/r/HFY/comments/7sndvc/oc_bought_and_sold_chapter_10/"
+		},
+		{
+			"title": "Advice and Decisions",
+			"src": "https://www.reddit.com/r/HFY/comments/7t9nrr/oc_bought_and_sold_chapter_11/"
+		},
+		{
+			"title": "Making Progress",
+			"src": "https://www.reddit.com/r/HFY/comments/7twuo8/oc_bought_and_sold_chapter_12/"
+		},
+		{
+			"title": "Pockets!",
+			"src": "https://www.reddit.com/r/HFY/comments/7ufsgu/oc_bought_and_sold_chapter_13/"
+		},
+		{
+			"title": "Ambush!",
+			"src": "https://www.reddit.com/r/HFY/comments/7uva8v/oc_bought_and_sold_chapter_14/"
+		},
+		{
+			"title": "Black Eyes",
+			"src": "https://www.reddit.com/r/HFY/comments/7vie7g/oc_bought_and_sold_chapter_15/"
+		},
+		{
+			"title": "The Raid",
+			"src": "https://www.reddit.com/r/HFY/comments/7w2fgq/oc_bought_and_sold_chapter_16/"
+		},
+		{
+			"title": "A Little Payback",
+			"src": "https://www.reddit.com/r/HFY/comments/7wi8c8/oc_bought_and_sold_chapter_17/"
+		},
+		{
+			"title": "Coming to Grips",
+			"src": "https://www.reddit.com/r/HFY/comments/7x3jkz/oc_bought_and_sold_chapter_18/"
+		},
+		{
+			"title": "Unwelcome Visitor",
+			"src": "https://www.reddit.com/r/HFY/comments/7xnbq1/oc_bought_and_sold_chapter_19/"
+		},
+		{
+			"title": "That's my Girl!",
+			"src": "https://www.reddit.com/r/HFY/comments/7y4hre/oc_bought_and_sold_chapter_20/"
+		},
+		{
+			"title": "To Freedom",
+			"src": "https://www.reddit.com/r/HFY/comments/7ypccj/oc_bought_and_sold_chapter_21/"
+		},
+		{
+			"title": "End of the Beginning",
+			"src": "https://www.reddit.com/r/HFY/comments/7zrvt9/oc_bought_and_sold_chapter_22/"
+		}
+	]
+}
+

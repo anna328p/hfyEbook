@@ -1,0 +1,127 @@
+{
+	"title": "Bought and Sold (Arc 2)",
+	"creator": "MyNameMeansBentNose",
+	"patreon": "https://www.patreon.com/MyNameMeansBentNose",
+	"filters": [
+		"from-reddit-post",
+		"clean-reddit",
+		"custom-break-to-hr",
+		"no-preamble",
+		"typography",
+		"finalize"
+	],
+	"filename": "Bought and Sold Arc 2",
+	"output": ["epub", "latex", "html"],
+	"contents":
+	[
+		{
+			"title": "Harried Landing",
+			"src": "https://www.reddit.com/r/HFY/comments/85nfh6/bought_and_sold_chapter_1_arc_2/"
+		},
+		{
+			"title": "Errors and Overflows",
+			"src": "https://www.reddit.com/r/HFY/comments/867c1k/oc_bought_and_sold_chapter_2_arc2/"
+		},
+		{
+			"title": "Further Explorations",
+			"src": "https://www.reddit.com/r/HFY/comments/86ozqa/oc_bought_and_sold_chapter_3_arc2/"
+		},
+		{
+			"title": "House Hunting",
+			"src": "https://www.reddit.com/r/HFY/comments/87dj7z/oc_bought_and_sold_chapter_4_arc2/"
+		},
+		{
+			"title": "Moving In",
+			"src": "https://www.reddit.com/r/HFY/comments/87x6dm/oc_bought_and_sold_chapter_5_arc2/"
+		},
+		{
+			"title": "Being Moved",
+			"src": "https://www.reddit.com/r/HFY/comments/88eyn3/oc_bought_and_sold_chapter_6_arc2/"
+		},
+		{
+			"title": "Send them In",
+			"src": "https://www.reddit.com/r/HFY/comments/896oc0/oc_bought_and_sold_chapter_7_arc2/"
+		},
+		{
+			"title": "A big room",
+			"src": "https://www.reddit.com/r/HFY/comments/89v9gc/oc_bought_and_sold_chapter_8_arc2/"
+		},
+		{
+			"title": "Tanking prospects",
+			"src": "https://www.reddit.com/r/HFY/comments/8af2kn/oc_bought_and_sold_chapter_9_arc2/"
+		},
+		{
+			"title": "Multiplying Problems",
+			"src": "https://www.reddit.com/r/HFY/comments/8b3d53/oc_bought_and_sold_chapter_10_arc2/"
+		},
+		{
+			"title": "Signs of Escalation",
+			"src": "https://www.reddit.com/r/HFY/comments/8c40hz/oc_bought_and_sold_chapter_11_arc2/"
+		},
+		{
+			"title": "What's gotten into you?",
+			"src": "https://www.reddit.com/r/HFY/comments/8cs8k9/oc_bought_and_sold_chapter_12_arc2/"
+		},
+		{
+			"title": "A little Sprout",
+			"src": "https://www.reddit.com/r/HFY/comments/8dsok3/oc_bought_and_sold_chapter_13_arc2/"
+		},
+		{
+			"title": "Signs of things to come",
+			"src": "https://www.reddit.com/r/HFY/comments/8eg3wx/oc_bought_and_sold_chapter_14_arc2/"
+		},
+		{
+			"title": "A Problems",
+			"src": "https://www.reddit.com/r/HFY/comments/8fbi47/oc_bought_and_sold_chapter_15_arc2/"
+		},
+		{
+			"title": "Should have known",
+			"src": "https://www.reddit.com/r/HFY/comments/8g464t/ocbought_and_sold_chapter_16_arc2/"
+		},
+		{
+			"title": "To Dance",
+			"src": "https://www.reddit.com/r/HFY/comments/8h450j/oc_bought_and_sold_chapter_17_arc2/"
+		},
+		{
+			"title": "Know what I Learned?",
+			"src": "https://www.reddit.com/r/HFY/comments/8hrxu9/ocbought_and_sold_chapter_18_arc2/"
+		},
+		{
+			"title": "Matchka on Rails",
+			"src": "https://www.reddit.com/r/HFY/comments/8isnmf/ocbought_and_sold_chapter_19_arc2/"
+		},
+		{
+			"title": "A Feeling in his Heart",
+			"src": "https://www.reddit.com/r/HFY/comments/8jh5g9/bought_and_sold_chapter_20_arc2/"
+		},
+		{
+			"title": "Personally Tested",
+			"src": "https://www.reddit.com/r/HFY/comments/8khy4y/bought_and_sold_chapter_21_arc2/"
+		},
+		{
+			"title": "Moving Minds and Ships",
+			"src": "https://www.reddit.com/r/HFY/comments/8l4un0/bought_and_sold_chapter_22_arc2/"
+		},
+		{
+			"title": "On Their Way",
+			"src": "https://www.reddit.com/r/HFY/comments/8m67ad/bought_and_sold_chapter_23_arc2/"
+		},
+		{
+			"title": "Up to his Neck in Trouble",
+			"src": "https://www.reddit.com/r/HFY/comments/8murgv/bought_and_sold_chapter_24_arc2/"
+		},
+		{
+			"title": "Went to his Head",
+			"src": "https://www.reddit.com/r/HFY/comments/8nww2u/bought_and_sold_chapter_25_arc2/"
+		},
+		{
+			"title": "Fell for It",
+			"src": "https://www.reddit.com/r/HFY/comments/8ogtaq/bought_and_sold_chapter_26_arc2/"
+		},
+		{
+			"title": "Epilogue: Take my Hand",
+			"src": "https://www.reddit.com/r/HFY/comments/8pooky/bought_and_sold_arc2_epilogue/"
+		}
+	]
+}
+
